@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Yana Vaag](https://up.htmlacademy.ru/htmlcss/29/user/1488633).
-* Наставник: `Неизвестно`.
+* Наставник: [Ксения Торкова](https://up.htmlacademy.ru/htmlcss/29/user/23249).
 
 ---
 
